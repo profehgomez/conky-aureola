@@ -1,4 +1,4 @@
-# Conky Aureola - Configuración MAZINGER 🚀
+# Conky Aureola - Configuración Personalizada 🚀
 
 Este repositorio contiene mi configuración altamente optimizada y personalizada del monitor de sistema **Conky**, basada en el tema clásico *Aureola* de Erik Dubois. Está adaptada milimétricamente para un procesador **Intel Core i7-10710U de 6 núcleos**, doble unidad de almacenamiento **NVMe** y optimizada visualmente con la paleta de colores de alto contraste **Nordic Autumn** para **Linux Mint 22.3 (Cinnamon)**.
 
