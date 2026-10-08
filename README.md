@@ -1,0 +1,1 @@
+# Conky Aureola - MAZINGER
